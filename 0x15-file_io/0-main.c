@@ -3,7 +3,10 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - Entry point, check the code.
+ *
+ * @ac: The number of command-line arguments.
+ * @av: An array of strings containing the command-line arguments.
  *
  * Return: Always 0.
  */
